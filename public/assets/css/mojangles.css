@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Mojangles';
+    src: url('/public/assets/font/Mojangles.tff') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Mojangles';
+    src: url('/public/assets/font/Mojangles.tff') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Mojangles-Bold';
+    src: url('/public/assets/font/mojangles-bold.ttf') format('truetype');
+    font-weight: 700;
+}
